@@ -1,0 +1,26 @@
+/* element selector */
+h1{
+    color:rgb(16, 41, 62);
+
+}
+
+/* id selector */
+#red{
+    color: blue;
+}
+
+/* div selector */
+div{
+    background-color: cadetblue;
+}
+
+/* class selector */
+.first{ 
+    color: yellowgreen;
+}
+
+/* universal selector */
+*{ 
+     margin: 0; 
+    padding: 0; 
+ }
