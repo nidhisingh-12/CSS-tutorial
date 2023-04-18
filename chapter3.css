@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url('hrithik.jpg');
+    background-repeat: no-repeat;
+}
+.container{
+    width: 344px;
+    height: 744px;
+    /*background-color: rgb(94,56,87);*/
+    background-image: contain;
+    color: whitesmoke;
+    border-color: red;
+    background-attachment: fixed;
+    /* background-position: top; */
+    background: red('hrithik,jpg') no repeat fixed ;
+}
